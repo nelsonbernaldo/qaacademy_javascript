@@ -25,6 +25,15 @@ z = false
 
 
 
+Comando do git
+git init 
+git status
+git Add
+git checkout
+git branch
+git chechout - b
+
+
 
 Pré-requisitos
 git (estou usando a versão 2.34.1 enquanto escrevo esta aula)

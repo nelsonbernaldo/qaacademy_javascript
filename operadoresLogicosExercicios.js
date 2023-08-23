@@ -1,4 +1,4 @@
-1 Faça um algoritmo para subtrair dois valores, e exibir o texto “sucesso”, se o resultado da operação for maior que 5 e menor que 10. Senão, exibir o texto “falhou”.
+/*1 Faça um algoritmo para subtrair dois valores, e exibir o texto “sucesso”, se o resultado da operação for maior que 5 e menor que 10. Senão, exibir o texto “falhou”.
 
 valor1 = 50;
 valor2 = 30;
@@ -69,7 +69,7 @@ SE !(result == 100){
 }
 SENÃO{
     	Exiba "NOK"    
-}
+}*/
 
 
 

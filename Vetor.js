@@ -16,9 +16,10 @@ vetor  [2] = 15;
 console.log(vetor[2]);
 
 
-
-
-
-
 /* 2-) Faça um algoritmo para imprimir o valor da posição 2 do vetor 
 criado anteriormente*/
+
+const vetor = []
+vetor  [2] = 15;
+console.log(vetor[2]);
+

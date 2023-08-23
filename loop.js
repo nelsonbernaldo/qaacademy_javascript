@@ -45,12 +45,12 @@ while(i <=10){
 }
 
 // 3 faça um algoritimo para somar tres numeros e exibir o resultado 
-let x = 15;
+let a = 15;
 let y = 20;
 let z = 7;
 console.log(x+y+z);
 let soma = x+y+z;
-console.log(soma);*/
+console.log(soma);
 
 // 4 faça um algoritimo para exibir de 30  a 45
 
