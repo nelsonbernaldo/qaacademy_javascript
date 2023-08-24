@@ -55,3 +55,17 @@ function subtracaoComRetorno (d,f,g){
     return subtracao;
 }
 console.log(subtracaoComRetorno(50,10,15))
+
+function dividirPorDois(param){
+    return param;
+}
+const valor = dividirPorDois(15);
+
+if(valor/2 == 0){
+    console.log("igual a zero")
+    return true;
+}
+else{
+    console.log("retorno inválido")
+    return false;
+}
