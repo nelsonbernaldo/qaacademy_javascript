@@ -1,4 +1,4 @@
-function somar(){
+/*function somar(){
     const a = 10;
     const b = 20;
     const resultado = a+b;
@@ -68,4 +68,4 @@ if(valor/2 == 0){
 else{
     console.log("retorno inválido")
     return false;
-}
+}*/
