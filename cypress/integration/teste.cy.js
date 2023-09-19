@@ -15,7 +15,7 @@ describe('Validar site Google', () => {
         .should('be.visible')
         })
     })
-    it.only('Pesquisar por uma imagem, exibir o resultado, clicar no link da imagem e validar que a imagem está sendo exibida;' , () => {
+    it('Pesquisar por uma imagem, exibir o resultado, clicar no link da imagem e validar que a imagem está sendo exibida;' , () => {
         cy.visit('https://www.google.com');
         cy.get('[id="APjFqb"]').click();
         cy.get('[id="APjFqb"]').type('Gaviões da Fiel').type('{ENTER}');
